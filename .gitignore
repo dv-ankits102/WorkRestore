@@ -12,4 +12,4 @@ data/workspaces/
 .idea/
 .vscode/
 
-settings.json
+data/settings.json
