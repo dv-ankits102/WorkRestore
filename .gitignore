@@ -11,3 +11,5 @@ data/workspaces/
 
 .idea/
 .vscode/
+
+settings.json
